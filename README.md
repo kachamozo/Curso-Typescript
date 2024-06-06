@@ -1,6 +1,10 @@
 # Curso Avanzado de Typescript
 
-[![Curso de Typescript](https://img.youtube.com/vi/LTtusG9pfVo/mqdefault.jpg)](https://www.youtube.com/watch?v=LTtusG9pfVo)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LTtusG9pfVo">
+    <img src="https://img.youtube.com/vi/LTtusG9pfVo/mqdefault.jpg" alt="Curso de Typescript">
+  </a>
+</div>
 
 ### Autor: [Manu Martín](<(https://www.youtube.com/watch?v=LTtusG9pfVo)>)
 
