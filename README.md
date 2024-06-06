@@ -1,7 +1,7 @@
 # Curso Avanzado de Typescript
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=LTtusG9pfVo">
+  <a href="https://www.youtube.com/watch?v=LTtusG9pfVo" target:"_blank">
     <img src="https://img.youtube.com/vi/LTtusG9pfVo/mqdefault.jpg" alt="Curso de Typescript">
   </a>
 </div>
